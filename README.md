@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi humans, you are interesting... but not more than suricates.
